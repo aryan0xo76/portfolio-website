@@ -290,29 +290,31 @@ export default function Home() {
                 <li className="flex gap-3">
                   <span className="text-teal-400">▹</span>
                   <span>
-                    Built an AI platform for Meesho DICE Challenge using FastAPI
-                    to optimize WhatsApp commerce via personalized campaigns.
+                    Architected a personalization engine using FastAPI to
+                    generate context-aware WhatsApp campaigns.
                   </span>
                 </li>
                 <li className="flex gap-3">
                   <span className="text-teal-400">▹</span>
                   <span>
-                    Developed a pipeline using PMI Co-visitation and a CatBoost
-                    GPU Re-ranker for context-aware discovery.
+                    Engineered a 2-stage RecSys pipeline: Co-visitation Matrix
+                    (Recall) + CatBoost Reranker (Precision) for product
+                    sorting.
                   </span>
                 </li>
                 <li className="flex gap-3">
                   <span className="text-teal-400">▹</span>
                   <span>
-                    Implemented Send-Time Optimization via Empirical Bayes and
-                    GA4-style synthetic data generation.
+                    Implemented Send-Time Optimization (STO) algorithms to
+                    predict peak engagement windows from 50k+ synthetic
+                    GA4-style events.
                   </span>
                 </li>
               </ul>
 
               <div className="flex gap-2 text-xs font-mono text-teal-400/80">
-                <span>FastAPI</span> • <span>CatBoost</span> •{" "}
-                <span>Empirical Bayes</span>
+                <span>Scikit-Learn.</span> •{" "}
+                <span>CatBoost</span> 
               </div>
             </div>
           </div>
