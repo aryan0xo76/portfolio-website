@@ -277,7 +277,7 @@ export default function Home() {
                 </h4>
                 {/* ADD YOUR PROJECT LINK IN THE HREF BELOW */}
                 <a
-                  href="https://github.com/aryan0xo76/meesho-micro-moments-predictor"
+                  href="https://github.com/aryan0xo76/meesho_project2"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-slate-500 hover:text-teal-400 transition"
