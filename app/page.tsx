@@ -64,7 +64,7 @@ export default function Home() {
             </div>
 
             <a
-              href="https://drive.google.com/file/d/15DcAI4_uhuvppzuJ0BIqq6BIV0t0BGnm/view?usp=drive_link"
+              href="https://drive.google.com/file/d/12UNWRQI92J1En_9U5sbe8vsaVUsr-xFt/view?usp=drive_link"
               target="_blank"
               rel="noopener noreferrer"
               className="block w-fit" /* This limits the clickable area to the button's width */
@@ -313,8 +313,7 @@ export default function Home() {
               </ul>
 
               <div className="flex gap-2 text-xs font-mono text-teal-400/80">
-                <span>Scikit-Learn.</span> •{" "}
-                <span>CatBoost</span> 
+                <span>Scikit-Learn.</span> • <span>CatBoost</span>
               </div>
             </div>
           </div>
