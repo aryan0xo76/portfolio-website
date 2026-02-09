@@ -34,10 +34,10 @@ export default function Home() {
               Generative AI Researcher | Full Stack Developer
             </h2>
             <p className="max-w-xl text-lg mb-8 leading-relaxed text-slate-400">
-              B.Tech student at <strong>IIT Roorkee</strong> interested in Web
-              Development and ML/Generative AI roles. <br></br>I enjoy building
-              functional applications and exploring ML architectures through
-              research and personal projects.
+              B.Tech student at <strong>IIT Roorkee</strong> interested in Data
+              Science & Analytics and ML/Generative AI roles. <br></br>I enjoy
+              building functional applications and exploring ML architectures
+              through research and personal projects.
             </p>
 
             <div className="flex gap-4 mb-10 text-slate-400">
