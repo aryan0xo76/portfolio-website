@@ -112,7 +112,7 @@ export default function Home() {
                   learnable embeddings for spatial awareness.
                 </li>
                 <li>
-                  Formulated a Cosine Noise Scheduler preserve high-frequency
+                  Formulated a Cosine Noise Scheduler to preserve high-frequency
                   geometry, stabilizing training with gradient norm clipping.
                 </li>
                 <li>
