@@ -101,26 +101,26 @@ export default function Home() {
               </p>
               <ul className="list-disc ml-4 space-y-2 text-sm text-slate-400">
                 <li>
-                  Analyzed 3D architectures (VoTr, PVCNN etc.) to understand
-                  voxel-based representation methods.
+                  – Engineered core PyTorch modules in a latent diffusion
+                  pipeline for 3D scenery generation, implementing AdaLN-Zero
+                  and Cross-Attention blocks for compressed Triplane
+                  representations.
                 </li>
                 <li>
-                  Contributed to internal, proprietary generative AI workflows
-                  for procedural 3D scenery generation and developed an
-                  independent Text-to-3D prototype where Shap-E (Latent
-                  Diffusion) was integrated with a text300M Transformer encoder
-                  to generate Implicit Neural Representations (SDFs) from
-                  natural language.
+                  – Designed a CNN-based Patch Embedding module compressing 64 ×
+                  64 spatial latents into sequential tokens, injecting 3D-aware
+                  learnable embeddings for spatial awareness.
                 </li>
                 <li>
-                  Orchestrated the conversion of SDFs into renderable polygonal
-                  meshes using differentiable Marching Cubes algorithms and
-                  Trimesh for lighting enhancement and K-Means texture
-                  quantization
+                  – Formulated a Cosine Noise Scheduler preserve high-frequency
+                  geometry, stabilizing training with gradient norm clipping.
                 </li>
                 <li>
-                  Developed a full-stack interface with a Flask backend and
-                  Three.js for real-time 3D model visualization
+                  – Developed an independent Text-to-3D prototype integrating
+                  Shap-E and a text300M Transformer to generate Implicit Neural
+                  Representations (SDFs), rendered by Marching Cubes in a
+                  full-stack web interface Flask and Three.js for 3D model
+                  visualization.
                 </li>
               </ul>
             </div>
