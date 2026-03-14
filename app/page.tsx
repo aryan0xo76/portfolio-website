@@ -101,22 +101,22 @@ export default function Home() {
               </p>
               <ul className="list-disc ml-4 space-y-2 text-sm text-slate-400">
                 <li>
-                  – Engineered core PyTorch modules in a latent diffusion
+                  Engineered core PyTorch modules in a latent diffusion
                   pipeline for 3D scenery generation, implementing AdaLN-Zero
                   and Cross-Attention blocks for compressed Triplane
                   representations.
                 </li>
                 <li>
-                  – Designed a CNN-based Patch Embedding module compressing 64 ×
+                  Designed a CNN-based Patch Embedding module compressing 64 ×
                   64 spatial latents into sequential tokens, injecting 3D-aware
                   learnable embeddings for spatial awareness.
                 </li>
                 <li>
-                  – Formulated a Cosine Noise Scheduler preserve high-frequency
+                  Formulated a Cosine Noise Scheduler preserve high-frequency
                   geometry, stabilizing training with gradient norm clipping.
                 </li>
                 <li>
-                  – Developed an independent Text-to-3D prototype integrating
+                  Developed an independent Text-to-3D prototype integrating
                   Shap-E and a text300M Transformer to generate Implicit Neural
                   Representations (SDFs), rendered by Marching Cubes in a
                   full-stack web interface Flask and Three.js for 3D model
